@@ -6,7 +6,7 @@ A Mac web browser with an AI agent built in. Open any website, tell the agent wh
 
 ### [Download Gemini Browser for Mac](../../releases/latest/download/Gemini-Browser.dmg)
 
-Version 1.1.0, about 141 MB. Needs a Mac with Apple silicon (M1 or later) and macOS 13.0 or newer.
+Version 1.2.0, about 141 MB. Needs a Mac with Apple silicon (M1 or later) and macOS 13.0 or newer.
 
 ## Install
 
@@ -17,11 +17,11 @@ Version 1.1.0, about 141 MB. Needs a Mac with Apple silicon (M1 or later) and ma
      ```
      xattr -dr com.apple.quarantine "/Applications/Gemini Browser.app"
      ```
-3. On first launch, paste your own Gemini API key into Settings. You can get one free at [aistudio.google.com/apikey](https://aistudio.google.com/apikey).
+3. On first launch, agree to the Terms and Conditions (you must be 18 or older), then paste your own Gemini API key into Settings. You can get one free at [aistudio.google.com/apikey](https://aistudio.google.com/apikey).
 
 ## Update
 
-The download link above always gets the newest version. Quit Gemini Browser, download it again, drag the new app onto Applications and choose **Replace**. Your settings, API key and logins are kept. To see which version you have, choose **Gemini Browser > About Gemini Browser** in the menu bar.
+The download link above always gets the newest version. Quit Gemini Browser, download it again, drag the new app onto Applications and choose **Replace**. Your settings, API key and logins are kept. If the Terms and Conditions have changed, you'll be asked to agree to them again. To see which version you have, choose **Gemini Browser > About Gemini Browser** in the menu bar.
 
 ## Free to use
 
