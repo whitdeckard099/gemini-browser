@@ -6,7 +6,7 @@ A Mac web browser with an AI agent built in. Open any website, tell the agent wh
 
 ### [Download Gemini Browser for Mac](../../releases/latest/download/Gemini-Browser.dmg)
 
-Version 1.2.1, about 141 MB. Needs a Mac with Apple silicon (M1 or later) and macOS 13.0 or newer.
+Version 1.3.0, about 141 MB. Needs a Mac with Apple silicon (M1 or later) and macOS 13.0 or newer.
 
 ## Install
 
